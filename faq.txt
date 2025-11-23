@@ -1,0 +1,32 @@
+Resetting Your Password
+To reset your password, go to the login page and click "Forgot Password."
+Enter your registered email and follow the link sent to you to create a new password.
+
+Refund Policy
+We offer refunds within 30 days of purchase. To request a refund, email support@example.com with your order number.
+Refunds are processed within 5–7 business days.
+
+Contacting Support
+You can reach our support team by emailing support@example.com or calling 1-800-555-1234 during business hours (9 AM – 5 PM IST).
+Live chat is also available on our website.
+
+Payment Extensions
+Customers may request a payment extension by emailing billing@example.com. Include your customer ID and preferred new date.
+Extensions are subject to approval.
+
+Troubleshooting Login Issues
+If you cannot log in, try clearing your browser cache, using an incognito window, and checking that Caps Lock is off.
+If the issue persists, contact support with a screenshot of the error message.
+
+Data & Privacy
+We value your privacy. Personal data is never shared with third parties without consent.
+For more details, see our Privacy Policy at example.com/privacy.
+
+Shipping & Delivery
+Orders are shipped within 2 business days. Standard delivery takes 5–7 days, while express delivery takes 2–3 days.
+
+Account Deletion
+To delete your account, email privacy@example.com with your registered email ID. Deletion requests are processed within 48 hours.
+
+Product Warranty
+All products come with a 1‑year warranty covering manufacturing defects. Contact support@example.com to initiate a claim.

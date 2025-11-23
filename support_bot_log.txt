@@ -1,0 +1,125 @@
+2025-11-23 08:10:42,337 | INFO | Loaded document: faq.txt
+2025-11-23 08:10:42,337 | INFO | Total sections: 1
+2025-11-23 08:10:43,885 | WARNING | Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-23 08:11:52,359 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-23 08:11:56,123 | INFO | Use pytorch device_name: cpu
+2025-11-23 08:11:58,508 | INFO | Computed section embeddings.
+2025-11-23 08:11:58,509 | INFO | Processing query: How do I reset my password?
+2025-11-23 08:11:58,557 | INFO | Found relevant section index=0 for query='How do I reset my password?'
+2025-11-23 08:11:58,557 | INFO | Context too short; triggering fallback.
+2025-11-23 08:11:58,558 | INFO | Feedback received: not helpful
+2025-11-23 08:11:58,587 | INFO | Found relevant section index=0 for query='How do I reset my password? Please be specific and include steps.'
+2025-11-23 08:11:58,587 | INFO | Context too short; triggering fallback.
+2025-11-23 08:11:58,587 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:11:58,587 | INFO | Feedback received: good
+2025-11-23 08:11:58,587 | INFO | Processing query: What's the refund policy?
+2025-11-23 08:11:58,618 | INFO | Found relevant section index=0 for query='What's the refund policy?'
+2025-11-23 08:11:58,618 | INFO | Context too short; triggering fallback.
+2025-11-23 08:11:58,618 | INFO | Feedback received: good
+2025-11-23 08:11:58,618 | INFO | Processing query: How do I contact support?
+2025-11-23 08:11:58,646 | INFO | Found relevant section index=0 for query='How do I contact support?'
+2025-11-23 08:11:58,646 | INFO | Context too short; triggering fallback.
+2025-11-23 08:11:58,646 | INFO | Feedback received: not helpful
+2025-11-23 08:11:58,669 | INFO | Found relevant section index=0 for query='How do I contact support? Please be specific and include steps.'
+2025-11-23 08:11:58,669 | INFO | Context too short; triggering fallback.
+2025-11-23 08:11:58,669 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:11:58,669 | INFO | Feedback received: too vague
+2025-11-23 08:11:58,694 | INFO | Found relevant section index=0 for query='How do I contact support?'
+2025-11-23 08:11:58,694 | INFO | Adjusted response for 'too vague' by adding context excerpt.
+2025-11-23 08:11:58,694 | INFO | Processing query: How do I fly to the moon?
+2025-11-23 08:11:58,716 | INFO | Found relevant section index=0 for query='How do I fly to the moon?'
+2025-11-23 08:11:58,716 | INFO | Context too short; triggering fallback.
+2025-11-23 08:11:58,716 | INFO | Feedback received: good
+2025-11-23 08:13:35,702 | INFO | Loaded document: faq.txt
+2025-11-23 08:13:35,702 | INFO | Total sections: 1
+2025-11-23 08:13:36,698 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-23 08:13:39,186 | INFO | Use pytorch device_name: cpu
+2025-11-23 08:13:39,838 | INFO | Computed section embeddings.
+2025-11-23 08:13:39,838 | INFO | Processing query: How do I reset my password?
+2025-11-23 08:13:39,850 | INFO | Found relevant section index=0 for query='How do I reset my password?'
+2025-11-23 08:13:39,850 | INFO | Context too short; triggering fallback.
+2025-11-23 08:13:39,850 | INFO | Feedback received: not helpful
+2025-11-23 08:13:39,863 | INFO | Found relevant section index=0 for query='How do I reset my password? Please be specific and include steps.'
+2025-11-23 08:13:39,863 | INFO | Context too short; triggering fallback.
+2025-11-23 08:13:39,863 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:13:39,863 | INFO | Feedback received: good
+2025-11-23 08:13:39,863 | INFO | Processing query: What's the refund policy?
+2025-11-23 08:13:39,882 | INFO | Found relevant section index=0 for query='What's the refund policy?'
+2025-11-23 08:13:39,882 | INFO | Context too short; triggering fallback.
+2025-11-23 08:13:39,882 | INFO | Feedback received: good
+2025-11-23 08:13:39,882 | INFO | Processing query: How do I contact support?
+2025-11-23 08:13:39,897 | INFO | Found relevant section index=0 for query='How do I contact support?'
+2025-11-23 08:13:39,897 | INFO | Context too short; triggering fallback.
+2025-11-23 08:13:39,897 | INFO | Feedback received: not helpful
+2025-11-23 08:13:39,917 | INFO | Found relevant section index=0 for query='How do I contact support? Please be specific and include steps.'
+2025-11-23 08:13:39,917 | INFO | Context too short; triggering fallback.
+2025-11-23 08:13:39,917 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:13:39,918 | INFO | Feedback received: too vague
+2025-11-23 08:13:39,933 | INFO | Found relevant section index=0 for query='How do I contact support?'
+2025-11-23 08:13:39,933 | INFO | Adjusted response for 'too vague' by adding context excerpt.
+2025-11-23 08:13:39,934 | INFO | Processing query: How do I fly to the moon?
+2025-11-23 08:13:39,947 | INFO | Found relevant section index=0 for query='How do I fly to the moon?'
+2025-11-23 08:13:39,947 | INFO | Context too short; triggering fallback.
+2025-11-23 08:13:39,948 | INFO | Feedback received: good
+2025-11-23 08:14:28,396 | INFO | Loaded document: faq.txt
+2025-11-23 08:14:28,396 | INFO | Total sections: 6
+2025-11-23 08:14:29,734 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-23 08:14:32,614 | INFO | Use pytorch device_name: cpu
+2025-11-23 08:14:33,299 | INFO | Computed section embeddings.
+2025-11-23 08:14:33,300 | INFO | Processing query: How do I reset my password?
+2025-11-23 08:14:33,319 | INFO | Found relevant section index=0 for query='How do I reset my password?'
+2025-11-23 08:14:33,397 | INFO | QA score=0.5192 section_idx=0
+2025-11-23 08:14:33,397 | INFO | Feedback received: not helpful
+2025-11-23 08:14:33,420 | INFO | Found relevant section index=0 for query='How do I reset my password? Please be specific and include steps.'
+2025-11-23 08:14:33,482 | INFO | QA score=0.5034 section_idx=0
+2025-11-23 08:14:33,482 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:14:33,482 | INFO | Feedback received: good
+2025-11-23 08:14:33,483 | INFO | Processing query: What's the refund policy?
+2025-11-23 08:14:33,502 | INFO | Found relevant section index=1 for query='What's the refund policy?'
+2025-11-23 08:14:33,556 | INFO | QA score=0.6534 section_idx=1
+2025-11-23 08:14:33,556 | INFO | Feedback received: good
+2025-11-23 08:14:33,556 | INFO | Processing query: How do I contact support?
+2025-11-23 08:14:33,573 | INFO | Found relevant section index=2 for query='How do I contact support?'
+2025-11-23 08:14:33,626 | INFO | QA score=0.5288 section_idx=2
+2025-11-23 08:14:33,626 | INFO | Feedback received: not helpful
+2025-11-23 08:14:33,644 | INFO | Found relevant section index=3 for query='How do I contact support? Please be specific and include steps.'
+2025-11-23 08:14:33,686 | INFO | QA score=0.5453 section_idx=3
+2025-11-23 08:14:33,686 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:14:33,686 | INFO | Feedback received: too vague
+2025-11-23 08:14:33,702 | INFO | Found relevant section index=2 for query='How do I contact support?'
+2025-11-23 08:14:33,702 | INFO | Adjusted response for 'too vague' by adding context excerpt.
+2025-11-23 08:14:33,702 | INFO | Processing query: How do I fly to the moon?
+2025-11-23 08:14:33,724 | INFO | Found relevant section index=0 for query='How do I fly to the moon?'
+2025-11-23 08:14:33,774 | INFO | QA score=0.3900 section_idx=0
+2025-11-23 08:14:33,774 | INFO | Feedback received: good
+2025-11-23 08:16:40,379 | INFO | Loaded document: faq.txt
+2025-11-23 08:16:40,379 | INFO | Total sections: 9
+2025-11-23 08:16:41,415 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-23 08:16:44,036 | INFO | Use pytorch device_name: cpu
+2025-11-23 08:16:44,675 | INFO | Computed section embeddings.
+2025-11-23 08:16:44,675 | INFO | Processing query: How do I reset my password?
+2025-11-23 08:16:44,687 | INFO | Found relevant section index=0 for query='How do I reset my password?'
+2025-11-23 08:16:44,727 | INFO | QA score=0.5192 section_idx=0
+2025-11-23 08:16:44,727 | INFO | Feedback received: not helpful
+2025-11-23 08:16:44,735 | INFO | Found relevant section index=0 for query='How do I reset my password? Please be specific and include steps.'
+2025-11-23 08:16:44,782 | INFO | QA score=0.5034 section_idx=0
+2025-11-23 08:16:44,782 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:16:44,782 | INFO | Feedback received: good
+2025-11-23 08:16:44,782 | INFO | Processing query: What's the refund policy?
+2025-11-23 08:16:44,795 | INFO | Found relevant section index=1 for query='What's the refund policy?'
+2025-11-23 08:16:44,830 | INFO | QA score=0.6534 section_idx=1
+2025-11-23 08:16:44,830 | INFO | Feedback received: good
+2025-11-23 08:16:44,830 | INFO | Processing query: How do I contact support?
+2025-11-23 08:16:44,841 | INFO | Found relevant section index=2 for query='How do I contact support?'
+2025-11-23 08:16:44,878 | INFO | QA score=0.5288 section_idx=2
+2025-11-23 08:16:44,878 | INFO | Feedback received: not helpful
+2025-11-23 08:16:44,890 | INFO | Found relevant section index=3 for query='How do I contact support? Please be specific and include steps.'
+2025-11-23 08:16:44,921 | INFO | QA score=0.5453 section_idx=3
+2025-11-23 08:16:44,921 | INFO | Adjusted response for 'not helpful' by refining the query.
+2025-11-23 08:16:44,921 | INFO | Feedback received: too vague
+2025-11-23 08:16:44,934 | INFO | Found relevant section index=2 for query='How do I contact support?'
+2025-11-23 08:16:44,934 | INFO | Adjusted response for 'too vague' by adding context excerpt.
+2025-11-23 08:16:44,934 | INFO | Processing query: How do I fly to the moon?
+2025-11-23 08:16:44,947 | INFO | Found relevant section index=0 for query='How do I fly to the moon?'
+2025-11-23 08:16:44,980 | INFO | QA score=0.3900 section_idx=0
+2025-11-23 08:16:44,980 | INFO | Feedback received: good

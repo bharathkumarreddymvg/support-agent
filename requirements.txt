@@ -1,0 +1,12 @@
+# Core libraries
+torch==2.2.2
+transformers==4.41.2
+sentence-transformers==2.7.0
+
+# PDF support
+PyPDF2==3.0.1
+
+# Optional: TensorFlow/Keras (if you want TF backend)
+tensorflow==2.15.1
+keras==2.15.0
+tf-keras
