@@ -1,19 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-SupportBotAgent: Document-trained customer support bot with retrieval, QA, feedback loop,
-and transparent logging. Designed for clarity, robustness, and reproducibility.
-
-Features:
-- PDF/TXT ingestion (PyPDF2 or plain text)
-- Semantic retrieval (sentence-transformers) with keyword fallback
-- Question-answering (Hugging Face transformers pipeline)
-- Feedback loop ("good", "too vague", "not helpful") with 2 iterations max
-- Graceful out-of-scope handling
-- Modular, readable code with logging
-"""
-
 import argparse
 import logging
 import os
